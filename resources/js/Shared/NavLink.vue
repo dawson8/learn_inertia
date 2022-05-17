@@ -11,6 +11,6 @@
     import { Link } from '@inertiajs/inertia-vue3';
 
     defineProps({
-            active: Boolean,
+        active: Boolean,
     });
 </script>
