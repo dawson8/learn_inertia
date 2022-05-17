@@ -20,11 +20,7 @@
     </nav>
 </template>
 
-<script>
+<script setup>
     import NavLink from "./NavLink";
-
-    export default {
-        components: { NavLink },
-    };
 </script>
 
